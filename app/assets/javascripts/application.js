@@ -12,5 +12,11 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require bootstrap-sprockets
+//= require scrolling-nav
+
+
+
+
 //= require turbolinks
 //= require_tree .
